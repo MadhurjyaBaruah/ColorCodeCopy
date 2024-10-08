@@ -1,1 +1,1 @@
-![Color Picker Screenshot](screebshots/ColorCodeCopy.png)
+[Color Picker Screenshot](screebshots/ColorCodeCopy.png)
