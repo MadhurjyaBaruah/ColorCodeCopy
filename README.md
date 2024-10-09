@@ -2,7 +2,7 @@
 This is a simple color picker tool that allows you to select colors and copy their hex codes.
 
 Live link
-[Click here to check out](https://madhurjyabaruah.github.io/ColorCodeCopy/Color%20Picker/) 
+[Click here to check out](https://madhurjyabaruah.github.io/ColorCodeCopy/color-picker/) 
 
 Screenshot
 ![Color Picker Screenshot](Screenshots/ColorCodeCopy.png)
