@@ -3,22 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <title>Color Picker</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <p>
-        <a href="/">Back to Homepage</a>
+    <p class="back-home">
+        <a href="/">Back to Homepage</a> <!-- Change this to your homepage URL -->
     </p>
     
     <div class="color-picker-container">
         <h1>Choose a Color</h1> 
         <div class="color-picker-wrapper">
-        <input type="color" id="colorPicker" value="#ffffff">
-        <div class="arrow"></div> 
-    </div>
-    <!-- <p id="instruction">Click on the box to select a color</p> -->
+            <input type="color" id="colorPicker" value="#ffffff">
+            <div class="arrow"></div> 
+        </div>
         <p>Selected Color: <span id="colorValue">#ffffff</span></p>
         <button id="copyButton">Copy Hex Code</button>
     </div>
@@ -26,4 +24,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-
